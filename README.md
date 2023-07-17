@@ -21,7 +21,7 @@ A pipeline deverá ser construída subindo uma instância local do Prefect (em P
 ## Atenção
 
 - A solução desse desafio deve ser publicada em um fork deste repositório no GitHub.
-- O link do repositório deve ser enviado até às 23:59, horário de Brasília, do dia 26/julho/2023 (quarta-feira) para o e-mail utilizado para contato com o assunto "Desafio Data Engineer - EMD".
+- O link do repositório deve ser enviado até às 23:59, horário de Brasília, do dia 26 de julho de 2023 (quarta-feira) para o e-mail utilizado para contato com o assunto "Desafio Data Engineer - EMD".
 - Você deve ser capaz de apresentar sua solução, explicando como a idealizou, caso seja aprovado(a) para a próxima etapa.
 
 ## Links de referência / utilidades
