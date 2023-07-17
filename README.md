@@ -28,8 +28,8 @@ A pipeline deverá ser construída subindo uma instância local do Prefect (em P
 ## Links de referência / utilidades
 
 
-- (Documentação Prefect)[https://docs-v1.prefect.io/]
-- (Documentação DBT)[https://docs.getdbt.com/docs/introduction]
+- Documentação [Prefect](https://docs-v1.prefect.io/)
+- Documentação [DBT](https://docs.getdbt.com/docs/introduction)
 - Instalar e configurar o
    [Prefect Server](https://docs.prefect.io/orchestration/getting-started/install.html)
    locamente com um [Docker Agent](https://docs.prefect.io/orchestration/agents/docker.html)
