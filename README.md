@@ -35,8 +35,8 @@ A pipeline deverá ser construída subindo uma instância local do Prefect (em P
    locamente com um [Docker Agent](https://docs.prefect.io/orchestration/agents/docker.html)
 - Construir a pipeline de captura da [API do
    BRT](http://citgisbrj.tacom.srv.br:9977/gtfs-realtime-exporter/findAll/json)
-
-
+- Repositório pipelines do [Escritorio de Dados](https://github.com/prefeitura-rio/pipelines)
+- Repositório de modelos DBT do [Escritorio de Dados](https://github.com/prefeitura-rio/queries-datario)
 
 
 ## Dúvidas?
